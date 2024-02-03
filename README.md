@@ -43,21 +43,21 @@ You can find other examples after Dependencies
 
 Here you can see a couple of screenshots of the app:
 
-Command cargo run +help
+- **Command cargo run +help**
 ![image](https://github.com/AlexandruRoscaPOO/Recursive_Grep/assets/113398639/6ebf7d92-4555-4d66-bb6c-1f4536bef216)
-App in-use
+- **App in-use**
 ![image](https://github.com/AlexandruRoscaPOO/Recursive_Grep/assets/113398639/779850c0-d0ef-4b03-a8c2-aa816d21b26a)
-Attribute -n 2 (Maximum 2 lines are checked before the app is terminated)
+- **Attribute -n 2 (Maximum 2 lines are checked before the app is terminated)**
 ![image](https://github.com/AlexandruRoscaPOO/Recursive_Grep/assets/113398639/6e5439a7-ccc6-40c2-a7d3-5c8a212cac90)
-Attribute -i (Case insensitive search)
+- **Attribute -i (Case insensitive search)**
 ![image](https://github.com/AlexandruRoscaPOO/Recursive_Grep/assets/113398639/5f538bdd-552d-4d9d-b90b-6a25a64142b9)
-Attribute -c(Only count how many times the searched string appears)
+- **Attribute -c(Only count how many times the searched string appears))**
 ![image](https://github.com/AlexandruRoscaPOO/Recursive_Grep/assets/113398639/d6a08f0b-225f-4fcd-83fe-7c4a01aa41db)
-Attribute -r(Allow regex searching)
+- **Attribute -r(Allow regex searching)**
 ![image](https://github.com/AlexandruRoscaPOO/Recursive_Grep/assets/113398639/0976f439-2bba-45b9-b8f3-4be672588366)
-It is possible that the string isnt present in the folder so we flag it out
+- **Possible Absence of Searched String in Folder (Notification)**
 ![image](https://github.com/AlexandruRoscaPOO/Recursive_Grep/assets/113398639/a4bdfe64-587c-4a60-ae8b-43ad327a140e)
-Possible Errors(Doesnt contain all of them)
+- **Possible Errors (Non-Exhaustive List)**
 ![image](https://github.com/AlexandruRoscaPOO/Recursive_Grep/assets/113398639/e2fd2d9b-f1e1-44ba-95d2-09f2d1043132)
 ![image](https://github.com/AlexandruRoscaPOO/Recursive_Grep/assets/113398639/388a6987-fd91-47ab-8614-b2b87a804c40)
 ![image](https://github.com/AlexandruRoscaPOO/Recursive_Grep/assets/113398639/f5bcb1aa-5d2b-4205-b469-02e5257135f6)
