@@ -45,6 +45,7 @@ Here you can see a couple of screenshots of the app:
 
 - **Command cargo run +help**
 ![image](https://github.com/AlexandruRoscaPOO/Recursive_Grep/assets/113398639/6ebf7d92-4555-4d66-bb6c-1f4536bef216)
+
 - **App in-use**
 ![image](https://github.com/AlexandruRoscaPOO/Recursive_Grep/assets/113398639/779850c0-d0ef-4b03-a8c2-aa816d21b26a)
 - **Attribute -n 2 (Maximum 2 lines are checked before the app is terminated)**
