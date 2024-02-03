@@ -44,7 +44,7 @@ You can find other examples after Dependencies
 Here you can see a couple of screenshots of the app:
 
 
-- **Command cargo run +help**
+- **You can find more about how to use the app using the command cargo run +help**
 ![image](https://github.com/AlexandruRoscaPOO/Recursive_Grep/assets/113398639/6ebf7d92-4555-4d66-bb6c-1f4536bef216)
 
 - **App in-use**
