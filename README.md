@@ -60,12 +60,19 @@ Here you can see a couple of screenshots of the app:
 - **Possible Absence of Searched String in Folder (Notification)**
 ![image](https://github.com/AlexandruRoscaPOO/Recursive_Grep/assets/113398639/a4bdfe64-587c-4a60-ae8b-43ad327a140e)
 - **Possible Errors (Non-Exhaustive List)**
+- **Invalid number of arguments**
 ![image](https://github.com/AlexandruRoscaPOO/Recursive_Grep/assets/113398639/e2fd2d9b-f1e1-44ba-95d2-09f2d1043132)
+- **Argument -n needs to be proceded by a number**
 ![image](https://github.com/AlexandruRoscaPOO/Recursive_Grep/assets/113398639/388a6987-fd91-47ab-8614-b2b87a804c40)
+- **Argument -n needs to be proceded by a number and only a number**
 ![image](https://github.com/AlexandruRoscaPOO/Recursive_Grep/assets/113398639/f5bcb1aa-5d2b-4205-b469-02e5257135f6)
+- **Invalid Argument**
 ![image](https://github.com/AlexandruRoscaPOO/Recursive_Grep/assets/113398639/a4ca2658-de51-4ecd-a9ff-0fc2bfc50973)
+- **Path isn't a folder**
 ![image](https://github.com/AlexandruRoscaPOO/Recursive_Grep/assets/113398639/6586a706-6225-4ac6-b4cb-74a19771c974)
+- **Invalid characters found**
 ![image](https://github.com/AlexandruRoscaPOO/Recursive_Grep/assets/113398639/a8813cec-ca4b-4687-bb7a-497ece6d6bcb)
+- **Invalid Regex format**
 ![image](https://github.com/AlexandruRoscaPOO/Recursive_Grep/assets/113398639/9debd02d-2f58-4aef-bdba-af6a1d8353f7)
 
 
