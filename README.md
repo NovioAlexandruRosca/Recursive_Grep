@@ -20,7 +20,9 @@ Example: `cargo run <string_to_search> -i -c -r -n 10 <folder_to_be_searched>`
 - `-i`: Ignores case when searching. Default is off.
 - `-c`: Enables "count-only" mode, which prints only the number of matches in a file. Default is off.
 - `-r`: Enables regex searching for advanced pattern matching. Default is off.
-- `<folder_to_be_searched>`: The name of the folder to be searched for matching strings.
+- `<folder_to_be_searched>`(Mandatory): The name of the folder to be searched for matching strings.
+
+You can find other examples after Dependencies
 
 ## Features
 
