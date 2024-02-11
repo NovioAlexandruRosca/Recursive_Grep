@@ -4,7 +4,7 @@
 December 10, 2023 - December 17, 2023
 
 ## Description
-This project, Recursive_Grep, is a command-line utility implemented in Rust. The utility is designed to recursively search through directories and files, providing users with powerful pattern matching capabilities for valid UTF-8 written files.
+Recursive_Grep, is a command-line utility implemented in Rust. The utility is designed to recursively search through directories and files, providing users with powerful pattern matching capabilities for valid UTF-8 written files.
 With Recursive_Grep, users can efficiently search for specific strings or patterns within their file system, making it a valuable tool for developers, sysadmins, and anyone working with text-based data.
 Utilizing Rust's performance and safety features, Recursive_Grep offers fast and reliable searching while ensuring code integrity and security.
 Whether used for codebase exploration, log analysis, or content management, Recursive_Grep provides a versatile and efficient solution for searching and analyzing text data.
